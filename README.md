@@ -86,7 +86,7 @@ En la barra de busqueda escribe ">Git: Clone"
 
 Pega esta URL:
 
-https://github.com/Akalienjoyer/sophyfarm-api
+https://github.com/Akalienjoyer/sophyfarm-api.git
 
 Elige una carpeta donde guardar el proyecto.
 
