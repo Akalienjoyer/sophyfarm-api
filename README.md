@@ -32,7 +32,7 @@ Durante la instalación:
 
 1.4 Restaurar la base de datos desde el backup
 
-Descargar el archivo sophyfarm.backup del enlace: https://unbosqueeduco-my.sharepoint.com/:u:/g/personal/falvaradoa_unbosque_edu_co/EcCvZGtbhKRCtAWpdnQQOXgBS0ILdkg39Sj87n9nIBZaFQ?e=8fkdsZ
+Descargar el archivo sophyfarm.backup del enlace: https://unbosqueeduco-my.sharepoint.com/:u:/g/personal/jjaramillon_unbosque_edu_co/Edlg9PE5TMREmmmTGhYV-SsB8HWUcgUNW70yooDekANBbA?e=Xv0dQ9
 
 Abre pgAdmin 4 y conéctate al servidor (localhost).
 En el panel izquierdo haz clic derecho sobre Databases → Create → Database…
@@ -86,7 +86,7 @@ En la barra de busqueda escribe ">Git: Clone"
 
 Pega esta URL:
 
-https://github.com/falvarado777/SophyFarm-Performance-Benchmark.git
+https://github.com/Akalienjoyer/sophyfarm-api
 
 Elige una carpeta donde guardar el proyecto.
 
